@@ -6,7 +6,7 @@ http://localhost:8080/user/add
 	"name": "iliass",
 	"email": "iliass@gmail.com",
 	"jobTitle": "software engineer",
-	"phone": "0666666666"
+	"phone": "0666666"
 	}
 # get all users 
 http://localhost:8080/user/all
